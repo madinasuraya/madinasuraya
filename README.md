@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madinasuraya&label=Profile%20views&color=0e75b6&style=flat" alt="madinasuraya" /> </p>
 
 - 👨‍💻 Experience in
-  **EDA, big data, web scrapping, system development Alteryx, Tableau and PowerBI**
+  **EDA, big data, web scrapping, system development, Alteryx, Tableau and PowerBI**
 
 - 🌱 I’m currently learning **MongoDB**
 
