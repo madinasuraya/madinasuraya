@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/madinasuraya/madinasuraya/blob/main/1.png?raw=true)
+![MasterHead](https://github.com/madinasuraya/madinasuraya/blob/main/Earthy%20Minimalist%20Name%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Madina Suraya</h1>
 <h3 align="center">A computer science student majoring in Data Engineering.</h3>
 
