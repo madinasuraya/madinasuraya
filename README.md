@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/office-cat-typing-computer-l6urlu1jc1bvwo3i.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madinasuraya&label=Profile%20views&color=0e75b6&style=flat" alt="madinasuraya" /> </p>
 
-- 👨‍💻 Experience in doing **EDA and system development**
+- 👨‍💻 Experience in doing **EDA, big data, web scrapping, system development Alteryx, Tableau and PowerBI**
 
 - 🌱 I’m currently learning **MongoDB**
 
