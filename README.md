@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/office-cat-typing-computer-l6urlu1jc1bvwo3i.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madinasuraya&label=Profile%20views&color=0e75b6&style=flat" alt="madinasuraya" /> </p>
 
-- 👨‍💻 Experience in doing **EDA, big data, web scrapping, system development Alteryx, Tableau and PowerBI**
+- 👨‍💻 Experience in
+- **EDA, big data, web scrapping, system development Alteryx, Tableau and PowerBI**
 
 - 🌱 I’m currently learning **MongoDB**
 
@@ -15,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/madina suraya zharin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madina suraya zharin" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/madina suraya zharin](https://www.linkedin.com/in/madina-suraya-zharin-b1177723a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madina suraya zharin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
