@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 	:page_facing_up: e-portfolio **https://eportfolio.utm.my/user/madina-suraya-binti-zharin**
+- 	:page_facing_up: My e-portfolio **https://eportfolio.utm.my/user/madina-suraya-binti-zharin**
 
 - 📫 How to reach me **dina_zharin@yahoo.com**
 
