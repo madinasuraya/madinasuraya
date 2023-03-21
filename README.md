@@ -5,12 +5,21 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/office-cat-typing-computer-l6urlu1jc1bvwo3i.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madinasuraya&label=Profile%20views&color=0e75b6&style=flat" alt="madinasuraya" /> </p>
 
+- 🔭 I’m currently working on **Application Development, managing database systems and technologies, and data management perspective to the Enterprise Information Systems in 
+a contemporary organization
+
 - 👨‍💻 Experience in
   **EDA, big data, web scrapping, system development, Alteryx, Tableau and PowerBI**
+  
+- 🏅 Licenses & Certifications **Alteryx Designer Core, Alteryx Foundational Micro-Credential, Azure AI Fundamentals, AWS Academy Cloud Foundations, AWS Academy Data Analytics and  AWS Academy Machine Learning Foundations**
 
 - 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **dina_zharin@yahoo.com**
+
+- 	📅 Borned **15 September 2001**
+
+- 	🏠 Hometown **Bandar Baru Bangi, Selangor, Malaysia
 
 - ⚡ Fun fact **A cat lover 😺**
 
