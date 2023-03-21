@@ -10,9 +10,11 @@
 - 👨‍💻 Experience in
   **EDA, big data, web scrapping, system development, Alteryx, Tableau and PowerBI**
   
-- 🏅 Licenses & Certifications **Alteryx Designer Core, Alteryx Foundational Micro-Credential, Azure AI Fundamentals, AWS Academy Cloud Foundations, AWS Academy Data Analytics and  AWS Academy Machine Learning Foundations**
+- 🏅 Licenses & Certifications in **Alteryx Designer Core, Alteryx Foundational Micro-Credential, Azure AI Fundamentals, AWS Academy Cloud Foundations, AWS Academy Data Analytics and  AWS Academy Machine Learning Foundations**
 
 - 🌱 I’m currently learning **MongoDB**
+
+- 	:page_facing_up: e-portfolio **https://eportfolio.utm.my/user/madina-suraya-binti-zharin**
 
 - 📫 How to reach me **dina_zharin@yahoo.com**
 
