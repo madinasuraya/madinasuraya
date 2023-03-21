@@ -18,7 +18,7 @@
 
 - 	📅 Borned **15 September 2001**
 
-- 	🏠 Hometown **Bandar Baru Bangi, Selangor, Malaysia
+- 	🏠 Hometown **Bandar Baru Bangi, Selangor, Malaysia**
 
 - ⚡ Fun fact **A cat lover 😺**
 
