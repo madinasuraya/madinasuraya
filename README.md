@@ -25,7 +25,12 @@
 - ⚡ Fun fact **A cat lover 😺**
 
 <h2 align="left">:woman_student: Connect with me :handshake:</h2>
-<p align="left">
+<p align="left"> 
+ 
+<a href="https://www.github.com/madinasuraya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+ 
+<a href="https://www.linkedin.com/in/madina suraya zharin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 <a href="[https://linkedin.com/in/madina suraya zharin](https://www.linkedin.com/in/madina-suraya-zharin-b1177723a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madina suraya zharin" height="30" width="40" /></a>
 </p>
 
