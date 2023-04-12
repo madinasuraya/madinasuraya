@@ -42,7 +42,7 @@
 ⚡ Fun fact **A cat lover 😺**
 </p>
 
-<h2 align="left"> :computer: Assignment and Projects</h2>
+<h2 align="left"> :computer: Projects</h2>
 - 
 
 <h2 align="left">:handshake: Connect with me</h2>
