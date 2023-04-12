@@ -27,6 +27,7 @@
  <li>
      <a href='https://www.credly.com/badges/9653b702-2c65-46ef-8f42-ef2ada8d7c41/public_url'>Azure AI Fundamentals</a>
  </li>
+ <li>
      <a href='https://www.credly.com/badges/71667714-e400-4df8-b8c7-40b8a28505fb/public_url'>AWS Academy Cloud Foundations</a>
  </li>
  <li>
