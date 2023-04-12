@@ -55,7 +55,7 @@
      <a href='https://github.com/madinasuraya/Python-big-data/tree/main/Assignment%202a/No%20name'>💊 Health Insurance Marketplace EDA (Data Table As An Alternative To Pandas)</a>
  </li>
  <li>
-     <a href='https://github.com/madinasuraya/Python-big-data/tree/main/Assignment%202b/No%20nameb'>🐼 Health Insurance Marketplace EDA (Pandas VS Datatable)</a>
+     <a href='https://github.com/madinasuraya/Python-big-data/tree/main/Assignment%202b/No%20name'>🐼 Health Insurance Marketplace EDA (Pandas VS Datatable)</a>
  </li>
  <li>
      <a href='https://github.com/drshahizan/python-web/tree/main/requests'>👟 Puma We Scrapping using Requests Library</a>
