@@ -58,7 +58,7 @@
      <a href='https://github.com/madinasuraya/Python-big-data/tree/main/Assignment%202b/No%20name'>🐼 Health Insurance Marketplace EDA (Pandas VS Datatable)</a>
  </li>
  <li>
-     <a href='https://github.com/drshahizan/python-web/tree/main/requests'>👟 Puma We Scrapping using Requests Library</a>
+     <a href='https://github.com/drshahizan/python-web/tree/main/requests'>👟 Puma Web Scrapping using Requests Library</a>
  </li>
  </ul>
 
