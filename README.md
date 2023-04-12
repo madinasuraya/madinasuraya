@@ -44,7 +44,23 @@
 </p>
 
 <h2 align="left"> :computer: Projects</h2>
-- 
+<ul>
+ <li>
+     <a href='https://github.com/madinasuraya/Python_EDA/tree/main/Malaysia%20EDA/Meow'>🏥 EDA Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19</a>
+ </li>
+ <li>
+     <a href='https://github.com/madinasuraya/Python-big-data/tree/main/Assignment%201/Meow'>📱 Big Data EDA Apple AppStore App</a>
+ </li>
+ <li>
+     <a href='https://github.com/madinasuraya/Python-big-data/tree/main/Assignment%202a/No%20name'>💊 Health Insurance Marketplace EDA (Data Table As An Alternative To Pandas)</a>
+ </li>
+ <li>
+     <a href='https://github.com/madinasuraya/Python-big-data/tree/main/Assignment%202b/No%20nameb'>🐼 Health Insurance Marketplace EDA (Pandas VS Datatable)</a>
+ </li>
+ <li>
+     <a href='https://github.com/drshahizan/python-web/tree/main/requests'>👟 Puma We Scrapping using Requests Library</a>
+ </li>
+ </ul>
 
 <h2 align="left">:handshake: Connect with me</h2>
 <p align="left"> 
