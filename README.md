@@ -4,17 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madinasuraya&label=Profile%20views&color=0e75b6&style=flat" alt="madinasuraya" /> </p>
 
-🔭 I’m currently learning 
-   - Application development using ASP.net, etc.
-   - Managing database systems and technologies using MongoDB, etc.
-   - Data management of Enterprise Information Systems using Laravel, php, etc.
-
 👨‍💻 Experience in
   - Exploratory Data Analysis (EDA) using Python library (pandas, numPy, scikit-learn, seaborn, etc.).
   - Managing big data in Python.
   - Web scrapping using Requests and Beautiful soup library.
   - System development using html, php, bootstrap, css, etc.
   - Using business intelligence tool such as Alteryx, Tableau, PowerBI, and RapidMiner.
+  - Application development using ASP.net, etc.
+  - Managing database systems and technologies using MongoDB, etc.
+  - Data management of Enterprise Information Systems using Laravel, php, etc.
   
 🏅 Licenses & Certifications in 
 <ul>
