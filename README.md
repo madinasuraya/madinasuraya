@@ -58,6 +58,22 @@
  <li>
      <a href='https://github.com/drshahizan/python-web/tree/main/requests'>👟 Puma Web Scrapping using Requests Library</a>
  </li>
+   <li>
+     <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment'>☪️ Malaysia Prayer Times API</a>
+ </li>
+ <li>
+     <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-integration/submission/Noctua'>☁️ Data Integration using Microsoft Azure</a>
+ </li>
+  <li>
+     <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-scraping/submission/part1/Noctua'>📷 Web scraping multimedia content using Flickr </a>
+ </li>
+<li>
+     <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-scraping/submission/part2/Noctua'>👩‍🎓 Web scraping text in Google Scholar</a>
+ </li>
+   <li>
+     <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/project/submission/Noctua'>🤵‍♂ Reddit Sentiment Analysis:
+Exploring Redditor's Opinions with NLP Techniques</a>
+ </li>
  </ul>
 
 <h2 align="left">:handshake: Connect with me</h2>
