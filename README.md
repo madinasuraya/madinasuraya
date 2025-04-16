@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/madinasuraya/madinasuraya/blob/main/Earthy%20Minimalist%20Name%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Madina Suraya</h1>
-<h3 align="center">A computer science student majoring in Data Engineering.</h3>
+<h3 align="center">A computer science student majoring in Data Engineering & Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madinasuraya&label=Profile%20views&color=0e75b6&style=flat" alt="madinasuraya" /> </p>
 
