@@ -44,6 +44,11 @@
 <h2 align="left"> :computer: Projects</h2>
 <ul>
  <li>
+     <a href='https://github.com/madinasuraya/R-Programming?tab=readme-ov-file'>🏥 Modeling Hospital Stay Duration and Readmission Risk in Diabetic Patients Using Machine Learning </a>
+ </li>
+ <li>
+<ul>
+ <li>
      <a href='https://github.com/madinasuraya/Python_EDA/tree/main/Malaysia%20EDA/Meow'>🏥 EDA Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19</a>
  </li>
  <li>
