@@ -13,33 +13,6 @@
   - Application development using ASP.net, etc.
   - Managing database systems and technologies using MongoDB, etc.
   - Data management of Enterprise Information Systems using Laravel, php, etc.
-  
-🏅 Licenses & Certifications in 
-<ul>
- <li>
-     <a href='https://www.credly.com/badges/69fc7364-fecd-4c5d-b884-a26844390ad0/public_url'>Alteryx Designer Core</a>
- </li>
- <li>
-     <a href='https://www.credly.com/badges/bccf8b28-07cf-4bdb-9f25-feef5f2bd9df/public_url'>Alteryx Foundational Micro-Credential</a>
- </li>
- <li>
-     <a href='https://www.credly.com/badges/9653b702-2c65-46ef-8f42-ef2ada8d7c41/public_url'>Azure AI Fundamentals</a>
- </li>
- <li>
-     <a href='https://www.credly.com/badges/71667714-e400-4df8-b8c7-40b8a28505fb/public_url'>AWS Academy Cloud Foundations</a>
- </li>
- <li>
-     <a href='https://www.credly.com/badges/a1c1d75a-7270-4028-ac4e-c0856d0a6b3e/public_url'>AWS Academy Data Analytics</a>
- </li>
- <li>
-     <a href='https://www.credly.com/badges/f45c0734-13d4-45b5-a1cd-4bcb94b6df28/public_url'>AWS Academy Machine Learning Foundations</a>
- </li>
- </ul>
-
-📅 Borned **15 September 2001**
-
-⚡ Fun fact **A cat lover 😺**
-</p>
 
 <h2 align="left"> :computer: Projects</h2>
  <li>
