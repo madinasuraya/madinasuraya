@@ -5,14 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madinasuraya&label=Profile%20views&color=0e75b6&style=flat" alt="madinasuraya" /> </p>
 
 👨‍💻 Experience in
+  - Building data pipelines in Talend for data ingestion and transformations. Then, deployment Talend jobs in Talend Management Console (TMC).
+  - Data warehousing in Snowflake.
+  - Delivering dashboard using Tableau and QlikSense.
   - Exploratory Data Analysis (EDA) using Python library (pandas, numPy, scikit-learn, seaborn, etc.).
   - Managing big data in Python.
   - Web scrapping using Requests and Beautiful soup library.
   - System development using html, php, bootstrap, css, etc.
-  - Using business intelligence tool such as Alteryx, Tableau, PowerBI, and RapidMiner.
-  - Application development using ASP.net, etc.
+  - Using various business intelligence tools such as Alteryx and PowerBI.
   - Managing database systems and technologies using MongoDB, etc.
-  - Data management of Enterprise Information Systems using Laravel, php, etc.
 
 <h2 align="left"> :computer: Projects</h2>
  <li>
