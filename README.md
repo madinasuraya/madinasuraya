@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/madinasuraya/madinasuraya/blob/main/Earthy%20Minimalist%20Name%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
-<h1 align="center">Hi 👋, I'm Madina Suraya</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">Computer Science (Data Engineering) graduate. Masters in Data Science student. Analytics Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madinasuraya&label=Profile%20views&color=0e75b6&style=flat" alt="madinasuraya" /> </p>
