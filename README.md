@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madinasuraya&label=Profile%20views&color=0e75b6&style=flat" alt="madinasuraya" /> </p>
 
 👨‍💻 Experience in
-  - Building data pipelines in Talend for data ingestion and transformations. Then, deployment Talend jobs in Talend Management Console (TMC).
+  - Building data pipelines in Talend for data ingestion and transformations. Then, deployment of Talend jobs in Talend Management Console (TMC).
   - Data warehousing in Snowflake.
   - Delivering dashboard using Tableau and QlikSense.
   - Exploratory Data Analysis (EDA) using Python library (pandas, numPy, scikit-learn, seaborn, etc.).
