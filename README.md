@@ -9,6 +9,7 @@
   - Data warehousing in Snowflake.
   - Delivering dashboard using Tableau and QlikSense.
   - Exploratory Data Analysis (EDA) using Python library (pandas, numPy, scikit-learn, seaborn, etc.).
+  - Data science related project in R and Python.
   - Managing big data in Python.
   - Web scrapping using Requests and Beautiful soup library.
   - System development using html, php, bootstrap, css, etc.
@@ -17,7 +18,7 @@
 
 <h2 align="left"> :computer: Projects</h2>
  <li>
-     <a href='https://github.com/madinasuraya/R-Programming?tab=readme-ov-file'>🏥 Modeling Hospital Stay Duration and Readmission Risk in Diabetic Patients Using Machine Learning </a>
+     <a href='https://github.com/madinasuraya/R-Programming?tab=readme-ov-file'>🏥 Modeling Hospital Stay Duration and Readmission Risk in Diabetic Patients Using Machine Learning in R</a>
  </li>
  <li>
      <a href='https://github.com/madinasuraya/Python_EDA/tree/main/Malaysia%20EDA/Meow'>🏥 EDA Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19</a>
