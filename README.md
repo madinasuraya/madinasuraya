@@ -36,6 +36,7 @@ EDA
  </li>
  
  Web Scrapping
+ 
  <li>
      <a href='https://github.com/drshahizan/python-web/tree/main/requests'>👟 Puma Web Scrapping using Requests Library</a>
  </li>
@@ -47,11 +48,13 @@ EDA
  </li>
  
 Cloud Platforms
+
  <li>
      <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-integration/submission/Noctua'>☁️ Data Integration using Microsoft Azure</a>
  </li>
  
  Data Science
+ 
 <li>
      <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-scraping/submission/part2/Noctua'>👩‍🎓 Web scraping text in Google Scholar</a>
  </li>
@@ -61,8 +64,9 @@ Exploring Redditor's Opinions with NLP Techniques</a>
  </li>
 
  R Programming
+ 
 <li>
-     <a href=' https://github.com/madinasuraya/R-Programming'>🏥💊 Modeling Hospital Stay Duration and Readmission Risk in Diabetic Patients Using Machine Learning</a>
+     <a href='https://github.com/madinasuraya/R-Programming'>🏥💊 Modeling Hospital Stay Duration and Readmission Risk in Diabetic Patients Using Machine Learning</a>
  </li>
  </ul>
 
