@@ -17,6 +17,7 @@
   - Managing database systems and technologies using MongoDB, etc.
 
 <h2 align="left"> :computer: Projects</h2>
+EDA
  <li>
      <a href='https://github.com/madinasuraya/R-Programming?tab=readme-ov-file'>🏥 Modeling Hospital Stay Duration and Readmission Risk in Diabetic Patients Using Machine Learning in R</a>
  </li>
@@ -32,18 +33,21 @@
  <li>
      <a href='https://github.com/madinasuraya/Python-big-data/tree/main/Assignment%202b/No%20name'>🐼 Health Insurance Marketplace EDA (Pandas VS Datatable)</a>
  </li>
+ Web Scrapping
  <li>
      <a href='https://github.com/drshahizan/python-web/tree/main/requests'>👟 Puma Web Scrapping using Requests Library</a>
  </li>
    <li>
      <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment'>☪️ Malaysia Prayer Times API</a>
  </li>
- <li>
-     <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-integration/submission/Noctua'>☁️ Data Integration using Microsoft Azure</a>
- </li>
   <li>
      <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-scraping/submission/part1/Noctua'>📷 Web scraping multimedia content using Flickr </a>
  </li>
+Cloud Platforms
+ <li>
+     <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-integration/submission/Noctua'>☁️ Data Integration using Microsoft Azure</a>
+ </li>
+ Data Science
 <li>
      <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-scraping/submission/part2/Noctua'>👩‍🎓 Web scraping text in Google Scholar</a>
  </li>
