@@ -44,6 +44,9 @@ EDA
   <li>
      <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-scraping/submission/part1/Noctua'>📷 Web scraping multimedia content using Flickr </a>
  </li>
+ <li>
+     <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-scraping/submission/part2/Noctua'>👩‍🎓 Web scraping text in Google Scholar</a>
+ </li>
  <br>
 Cloud Platforms
  <li>
@@ -51,9 +54,6 @@ Cloud Platforms
  </li>
  <br>
  Data Science
-<li>
-     <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-scraping/submission/part2/Noctua'>👩‍🎓 Web scraping text in Google Scholar</a>
- </li>
    <li>
      <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/project/submission/Noctua'>🤵‍♂ Reddit Sentiment Analysis:
 Exploring Redditor's Opinions with NLP Techniques</a>
