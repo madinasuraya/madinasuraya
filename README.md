@@ -73,8 +73,8 @@ Exploring Redditor's Opinions with NLP Techniques</a>
 <h2 align="left">🔧 Languages and Tools</h2>
 <li> Business Intelligence Tools and Analytics Tools: Qlik Sense, Tableau, Power BI, RapidMiner </li>
 <li> ETL & Data Integration: Talend, Alteryx </li>
-<li> Databases & Data Warehousing: **Snowflake, Microsoft SQL Server </li>
-<li> Big Data & Cloud Technologies: **Hadoop (HDFS, HBase), Apache Spark </li>
+<li> **Databases & Data Warehousing: **Snowflake, Microsoft SQL Server </li>
+<li> Big Data & Cloud Technologies: Hadoop (HDFS, HBase), Apache Spark </li>
 <li> Cloud Platforms: **AWS, Google Cloud Platform (GCP) </li>
 <li> Programming Languages: **Python, SQL, R, Java </li>
 <li> Others:
