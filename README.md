@@ -1,7 +1,32 @@
 ![MasterHead](https://github.com/madinasuraya/madinasuraya/blob/main/Earthy%20Minimalist%20Name%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
 <h1 align="center">Hello 👋</h1>
-<h3 align="center">Computer Science (Data Engineering) . Masters of Data Science</h3>
-<h3 align="center">Analytics Specialist . Technology Consultant (AI & Data)</h3>
+
+<p align="center">
+  a little about me ♡
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      🎓 <b>Study</b><br><br>
+      B.Sc. Computer Science<br>
+      <i>(Data Engineering)</i><br>
+      ↓<br>
+      Master of Data Science
+    </td>
+    <td align="center">
+      💻 <b>Work</b><br><br>
+      Analytics Specialist<br>
+      ↓<br>
+      Technology Consultant<br>
+      <i>(AI & Data)</i>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  📚 always learning • building • exploring data ✨
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madinasuraya&label=Profile%20views&color=0e75b6&style=flat" alt="madinasuraya" /> </p>
 
