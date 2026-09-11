@@ -29,45 +29,32 @@
 ## 👩‍💻 Experience in
 
 ### 💼 Professional Experience
-- Building data pipelines for **data ingestion, transformation, and integration using Talend**, including deployment through Talend Management Console (TMC).
-- Working with **Snowflake** for data warehousing, data transformation, and analytical data preparation.
-- Developing and delivering dashboards and data visualisations using **Tableau and Qlik Sense**.
-- Performing **data profiling, data quality checks, data cleansing, and data preparation** for analytics and reporting.
 - Working with **Databricks, Python, and SQL** for data engineering and data processing workflows.
 - Supporting **Generative AI and Retrieval-Augmented Generation (RAG)** solutions involving unstructured and semi-structured documents.
 - Processing and chunking data from **PDF, Word, Excel, and image files** for AI-driven applications.
 - Working within development environments involving **AWS, Git, Docker, and VS Code**.
+- Building data pipelines for **data ingestion, transformation, and integration using Talend**, including deployment through Talend Management Console (TMC).
+- Working with **Snowflake** for data warehousing, data transformation, and analytical data preparation.
+- Developing and delivering dashboards and data visualisations using **Tableau and Qlik Sense**.
+- Performing **data profiling, data quality checks, data cleansing, and data preparation** for analytics and reporting.
 - Supporting **data science and optimization applications**, including Gurobi license and environment configuration.
 - Supporting client projects across various industries involving **Data Engineering, Data Science, Analytics, and AI**.
 
 ### 🎓 Academic & Project Experience
+- Conducting **time-series analysis and forecasting** using statistical and Machine Learning approaches.
 - Performing **Exploratory Data Analysis (EDA)**, data preprocessing, feature engineering, and statistical analysis using Python.
 - Developing **Machine Learning models** for classification, regression, forecasting, and other predictive analytics tasks.
 - Working with algorithms such as **Random Forest, XGBoost, SVM, Logistic Regression, KNN, Naive Bayes, and neural networks**.
-- Conducting **time-series analysis and forecasting** using statistical and Machine Learning approaches.
 - Working on **Natural Language Processing (NLP)** and sentiment analysis projects using social media data.
 - Exploring **Generative AI and LLM applications**, including Transformers, synthetic data generation, and RAG.
 - Working with **Big Data technologies** including Hadoop, Spark, Hive, and Pig.
 - Developing Data Science projects using **Python and R**.
-
-### 🛠️ Other Technical Experience
 - Creating dashboards and reports using **Power BI**.
 - Working with databases and data platforms including **SQL Server, BigQuery, MongoDB, and relational databases**.
 - Performing web scraping and data extraction using **Requests and Beautiful Soup**.
 - Developing web-based systems using **HTML, PHP, Bootstrap, and CSS**.
 - Using analytics and data preparation tools such as **Alteryx**.
 - Using **Git and GitHub** for version control and project documentation.
-👨‍💻 Experience in
-  - Building data pipelines in Talend for data ingestion and transformations. Then, deployment of Talend jobs in Talend Management Console (TMC).
-  - Data warehousing in Snowflake.
-  - Delivering dashboard using Tableau and QlikSense.
-  - Exploratory Data Analysis (EDA) using Python library (pandas, numPy, scikit-learn, seaborn, etc.).
-  - Data science related project in R and Python.
-  - Managing big data in Python.
-  - Web scrapping using Requests and Beautiful soup library.
-  - System development using html, php, bootstrap, css, etc.
-  - Using various business intelligence tools such as Alteryx and PowerBI.
-  - Managing database systems and technologies using MongoDB, etc.
 
 <h2 align="left"> :computer: Projects</h2>
 EDA
