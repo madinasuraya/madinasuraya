@@ -32,7 +32,6 @@
 - Working with **Databricks, Python, and SQL** for data engineering and data processing workflows.
 - Supporting **Generative AI and Retrieval-Augmented Generation (RAG)** solutions involving unstructured and semi-structured documents.
 - Processing and chunking data from **PDF, Word, Excel, and image files** for AI-driven applications.
-- Working within development environments involving **AWS, Git, Docker, and VS Code**.
 - Building data pipelines for **data ingestion, transformation, and integration using Talend**, including deployment through Talend Management Console (TMC).
 - Working with **Snowflake** for data warehousing, data transformation, and analytical data preparation.
 - Developing and delivering dashboards and data visualisations using **Tableau and Qlik Sense**.
@@ -54,7 +53,6 @@
 - Performing web scraping and data extraction using **Requests and Beautiful Soup**.
 - Developing web-based systems using **HTML, PHP, Bootstrap, and CSS**.
 - Using analytics and data preparation tools such as **Alteryx**.
-- Using **Git and GitHub** for version control and project documentation.
 
 <h2 align="left"> :computer: Projects</h2>
 EDA
@@ -114,12 +112,14 @@ Exploring Redditor's Opinions with NLP Techniques</a>
 </p>
 
 <h2 align="left">🔧 Languages and Tools</h2>
-<li> <b>Business Intelligence Tools and Analytics Tools: </b>Qlik Sense, Tableau, Power BI, RapidMiner </li>
-<li> <b>ETL & Data Integration: </b>Talend, Alteryx </li>
-<li> <b>Databases & Data Warehousing: </b>Snowflake, Microsoft SQL Server </li>
-<li> <b>Big Data & Cloud Technologies: </b>Hadoop (HDFS, HBase), Apache Spark </li>
-<li> <b>Cloud Platforms: </b>AWS, Google Cloud Platform (GCP) </li>
-<li> <b>Programming Languages: </b>Python, SQL, R, Java </li>
+<li><b>Business Intelligence & Analytics: </b>Qlik Sense, Tableau, Power BI, RapidMiner</li>
+<li><b>ETL & Data Integration: </b>Talend, Alteryx, Databricks</li>
+<li><b>Databases & Data Warehousing: </b>Snowflake, Databricks, Microsoft SQL Server</li>
+<li><b>Big Data Technologies: </b>Hadoop (HDFS, HBase), Apache Spark, Hive, Pig</li>
+<li><b>Cloud Platforms: </b>AWS (S3, EMR, Athena), Google Cloud Platform (GCP)</li>
+<li><b>Programming Languages: </b>Python, SQL, R, Java</li>
+<li><b>Development Tools: </b>Git, Visual Studio Code (VS Code), IntelliJ IDEA</li>
+<li><b>Productivity & Data Management: </b>Microsoft Excel, Word, PowerPoint</li>
 <li> Others:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
