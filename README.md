@@ -57,6 +57,7 @@ Cloud Platforms
    <li>
      <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/project/submission/Noctua'>🤵‍♂ Reddit Sentiment Analysis:
 Exploring Redditor's Opinions with NLP Techniques</a>
+     <a href='[https://github.com/drshahizan/special-topic-data-engineering/tree/main/project/submission/Noctua](https://github.com/madinasuraya/customer-attrition-analysis-banking/tree/main)'> 🏦 Customer Attrition Analysis and Prediction in the Banking Sector using Machine Learning Classifiers</a>
  </li>
 <br>
  R Programming
