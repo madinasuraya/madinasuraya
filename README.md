@@ -88,13 +88,13 @@ EDA
  <br>
 Cloud Platforms
  <li>
-     <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-integration/submission/Noctua'>☁️ Data Integration - Azure</a>
+     <a href='https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-integration/submission/Noctua'>Azure - ☁️ Data Integration</a>
  </li>
   <li>
-     <a href='https://github.com/madinasuraya/new-york-MTA'>🚌 NYC MTA Bus Operational Efficiency & Performance Analysis using Distributed Computing - AWS</a>
+     <a href='https://github.com/madinasuraya/new-york-MTA'>AWS - 🚌 NYC MTA Bus Operational Efficiency & Performance Analysis using Distributed Computing</a>
  </li>
   <li>
-     <a href='https://github.com/madinasuraya/obesity-trends/tree/main'>⚕️ Exploring Obesity Trends Through Cloud-Based Analytics - GCP</a>
+     <a href='https://github.com/madinasuraya/obesity-trends/tree/main'>GCP -⚕️ Exploring Obesity Trends Through Cloud-Based Analytics - GCP</a>
  </li>
  <br>
  Data Science
